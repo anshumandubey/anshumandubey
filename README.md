@@ -1,4 +1,4 @@
-<img src="assets/anshuman.jpg" alt="Anshuman Dubey" width="100%" />
+<img src="IMG-20240623-WA0053.jpg" alt="Anshuman Dubey" width="100%" />
 
 <h1 align="center">Anshuman Dubey</h1>
 <p align="center"><code>~ $ whoami</code> &nbsp;·&nbsp; software developer &nbsp;·&nbsp; problem solver &nbsp;·&nbsp; perpetual learner</p>
@@ -7,7 +7,7 @@
 
 ### `// about`
 
-I'm a software developer currently **leading development on RM3 at cpaxtra** — the pricing & promotion platform that powers Makro. I care about clean architecture, solving real business problems, and shipping things that make a difference. Always learning, always building.
+I'm a software developer currently **contributing at cpaxtra** — the pricing & promotion platform that powers Makro. I care about clean architecture, solving real business problems, and shipping things that make a difference. Always learning, always building.
 
 ---
 
@@ -18,9 +18,6 @@ I'm a software developer currently **leading development on RM3 at cpaxtra** —
 
 **📦 [dinoai](https://github.com/anshumandubey/dinoai)** — A bot that learns to play Chrome's offline Dino game using Deep Q-Learning.
 `Python` · `Deep Q-Learning`
-
-**⚡ RM3 · Pricing & Promotion** *(cpaxtra · Makro)* — Lead developer on the pricing and promotion system powering one of South Asia's largest retailers.
-`Java` · `Spring` · `Kafka`
 
 ---
 
